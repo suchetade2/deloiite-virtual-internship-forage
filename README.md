@@ -1,7 +1,6 @@
 # Deloitte Virtual Internship (Forage) 🎓
 
 [https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_mqBPN9FsPnpq8SjqL_1753983136988_completion_certificate.pdf](#)  
-[![Completion](https://img.shields.io/badge/Completion-Oct%202025-green)]  
 
 ---
 
