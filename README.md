@@ -8,7 +8,7 @@
 This repository showcases my participation in the **Deloitte Virtual Internship** via **Forage**.  
 
 The program offered **hands-on experience** in:  
-- **Data Analysis** – exploring datasets, generating insights, and presenting findings  
+- **Data Analysis** – exploring datasets, generating insights and presenting findings  
 - **Forensic Technology** – investigating data patterns and applying technology for risk detection  
 
 It provided a realistic simulation of tasks performed by Deloitte professionals in analytics and forensic investigations.
